@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(0, 5%, 15%);
+}
+
+h2 {
+   padding: 10px;
+   margin: 5px;
+   text-align: center;
+   font-size: 2.5em; 
+   color: rgb(194, 194, 67);
+}
+
+.buttonContainer{
+    margin: 40px 25px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+button{
+    padding: 20px;
+    border-style: none;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 20px;
+}
